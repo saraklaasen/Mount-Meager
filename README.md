@@ -9,4 +9,5 @@ Mount Meager Notebook.ipynb: the notebook with all the examples.\
 ev_2126.h5: a raw data file that is processed in the notebook.\
 xyz.npy: gps information that is used in the notebook, it is stored as a numpy array.\
 func_shift.py: a function to apply precise timeshifts to data.\
-func_read.py: a function to read in the raw data into an obspy stream object.
+func_read.py: a function to read in the raw data into an obspy stream object.\
+animation.mp4: an animation containing three different events and their frequency content.
